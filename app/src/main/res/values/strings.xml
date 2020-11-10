@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Nginep Yuk </string>
+
+    <string-array name="Menu_NginepYuk">
+        <item>List Hotel</item>
+        <item>Booking Kamar</item>
+        <item>Info and Tutorials</item>
+        <item>Chat</item>
+        <item>About Us</item>
+        <item>Settings</item>
+    </string-array>
+
+    <string-array name="Menu_Description">
+        <item>Cari informasi tentang hotel yang ingin kamu pesan!</item>
+        <item>Pesan sekarang sebelum full!</item>
+        <item>Cek info dan tutorial disini</item>
+        <item>Jika ada pertanyaan boleh chat dengan klik disini!</item>
+        <item>Ingin tahu lebih lanjut tentang NginepYuk klik disini!</item>
+        <item>Pengaturan akun dapat dilihat disini</item>
+    </string-array>
+
+    <string name="text_nginepyuk">NginepYuk</string>
+
+    <string name="username">Username</string>
+    <string name="input_username">Masukkan username</string>
+    <string name="password">Password</string>
+    <string name="input_password">Masukkan password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+</resources>
